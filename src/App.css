@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  font-family: "Shadows Into Light", cursive;
+}
+
+.bgligth {
+  background-color: white;
+  color: black;
+}
+
+.bgdark {
+  background-color: black;
+  color: white;
+}

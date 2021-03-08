@@ -8,7 +8,7 @@ Para descargar el proyecto usar el siguiente comando en la terminal.
 
 Una vez descargado el proyecto en su respectivo espacio, abra que descargar las dependencias del proyecto usando el siguiente comando en la terminal(recordar que devez estar dentro de la carpeta del proyecto instalado 1erReposritorio), "pwd: muestra tu ubicación".
 
-## npm istall
+## npm install
 
 Empezara descargar lo necesario para utilizar el proyecto.
 

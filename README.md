@@ -4,17 +4,17 @@ Este proyecto esta hecho en con Create React App
 
 Para descargar el proyecto usar el siguiente comando en la terminal.
 
-git clone (url)
+## git clone (url)
 
 Una vez descargado el proyecto en su respectivo espacio, abra que descargar las dependencias del proyecto usando el siguiente comando en la terminal(recordar que devez estar dentro de la carpeta del proyecto instalado 1erReposritorio), "pwd: muestra tu ubicación".
 
-npm istall
+## npm istall
 
 Empezara descargar lo necesario para utilizar el proyecto.
 
 Cuando alla finalizado la descarga de las dependencias lo correremos de la siguiente manera.
 
-npm run start
+## npm run start
 
 Finalizado.
 

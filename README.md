@@ -18,6 +18,8 @@ npm run start
 
 Finalizado.
 
+## La siguiente información esparte de Create React App y esta en ingles.
+
 ## Available Scripts
 
 In the project directory, you can run:

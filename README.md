@@ -1,4 +1,4 @@
-<<<<Uso del Proyecto>>>
+## Uso del Proyecto
 
 Este proyecto esta hecho en con Create React App
 
